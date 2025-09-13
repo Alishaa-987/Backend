@@ -14,6 +14,10 @@ app.listen('4000' , ()=>{         // we use 4000 not 3000 bcz fronted use 3000 y
 app.get('/user' , (req , res)=>{
    console.log("hello users")
    res.json("hello")
+
+
+   console.log("hello users")
+   res.json("hello")
 })
 
 
