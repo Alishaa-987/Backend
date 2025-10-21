@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Khan",
+        "email": "ali.khan@gmail.com",
+        "age": 20
+    },
+    {
+        "id": 2,
+        "name": "Sara Ahmed",
+        "email": "sara.ahmed@gmail.com",
+        "age": 22
+    },
+    {
+        "id": 3,
+        "name": "Bilal Hussain",
+        "email": "bilal.hussain@gmail.com",
+        "age": 19
+    },
+    {
+        "id": 4,
+        "name": "Fatima Noor",
+        "email": "fatima.noor@gmail.com",
+        "age": 21
+    },
+    {
+        "id": 5,
+        "name": "Ahmed Raza",
+        "email": "ahmed.raza@gmail.com",
+        "age": 23
+    },
+    {
+        "id": 6,
+        "name": "Hira Malik",
+        "email": "hira.malik@gmail.com",
+        "age": 20
+    },
+    {
+        "id": 7,
+        "name": "Usman Ali",
+        "email": "usman.ali@gmail.com",
+        "age": 24
+    },
+    {
+        "id": 8,
+        "name": "Ayesha Tariq",
+        "email": "ayesha.tariq@gmail.com",
+        "age": 22
+    },
+    {
+        "id": 9,
+        "name": "Zain Abbas",
+        "email": "zain.abbas@gmail.com",
+        "age": 19
+    },
+    {
+        "id": 10,
+        "name": "Maria Javed",
+        "email": "maria.javed@gmail.com",
+        "age": 21
+    }
+]
+    
